@@ -1,0 +1,15 @@
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\bin\Debug\net6.0\descubraSeuSigno.exe
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\bin\Debug\net6.0\descubraSeuSigno.deps.json
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\bin\Debug\net6.0\descubraSeuSigno.runtimeconfig.json
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\bin\Debug\net6.0\descubraSeuSigno.dll
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\bin\Debug\net6.0\descubraSeuSigno.pdb
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.csproj.AssemblyReference.cache
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.AssemblyInfoInputs.cache
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.AssemblyInfo.cs
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.csproj.CoreCompileInputs.cache
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.dll
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\refint\descubraSeuSigno.dll
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.pdb
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\descubraSeuSigno.genruntimeconfig.cache
+C:\Users\paty_\OneDrive\Área de Trabalho\descubraSeuSigno\descubraSeuSigno\obj\Debug\net6.0\ref\descubraSeuSigno.dll
